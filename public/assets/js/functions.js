@@ -1,0 +1,1 @@
+var test="hello wolrd";"hello"==test&&console.log("bye bye"),"not hello"==test&&console.log("bye bye"),console.log("h");
